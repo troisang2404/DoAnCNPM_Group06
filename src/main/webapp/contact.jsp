@@ -89,7 +89,7 @@
             <div class="col-12 col-lg-6 contact-box text-center text-md-left wow slideInRight" data-wow-delay=".8s">
                 <div class="c-box wow fadeInRight">
                     <h4 class="small-heading">Để Lại Tin Nhắn</h4>
-                    <form class="contact-form" id="contact-form-data" action="contact" method="get">
+                    <form class="contact-form" id="contact-form-data"  method="get">
                         <div class="row my-form">
                             <div class="col-md-12 col-sm-12">
                                 <div id="result"></div>
