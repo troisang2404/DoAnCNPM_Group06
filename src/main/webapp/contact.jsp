@@ -140,19 +140,19 @@
 <!-- Custom Script -->
 <script src="js\script.js"></script>
 
-<script>
+<%--<script>--%>
 
-    function contact(){
-        var me = $('#user_message').val();
-        if(me === ''){
+<%--    function contact(){--%>
+<%--        var me = $('#user_message').val();--%>
+<%--        if(me === ''){--%>
 
-        }
-        else {
-            alert("Gửi tin nhắn thành công");
-        }
-    }
+<%--        }--%>
+<%--        else {--%>
+<%--            alert("Gửi tin nhắn thành công");--%>
+<%--        }--%>
+<%--    }--%>
 
-</script>
+<%--</script>--%>
 
 </body>
 </html>
