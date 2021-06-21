@@ -46,7 +46,7 @@ public class Contact extends HttpServlet {
         ContactEntity contactEntity = new ContactEntity();
         contactEntity.insertContact(contact);
 
-        request.getRequestDispatcher("contact.jsp").forward(request, response);
+        request.getRequestDispatcher("index.jsp").forward(request, response);
     }
 
 }
