@@ -8,10 +8,10 @@ import java.sql.SQLException;
 public class ConnectionDB {
     static Connection con;
     public static final String HOST_NAME = "remotemysql.com";
-    public static final String DB_NAME = "mFoiP8IBgd";
+    public static final String DB_NAME = "vjrX8EMuWA";
     public static final String DB_PORT = "3306";
-    public static final String USER_NAME = "mFoiP8IBgd";
-    public static final String PASSWORD = "ueeIyACpUB";
+    public static final String USER_NAME = "vjrX8EMuWA";
+    public static final String PASSWORD = "W9QJwoz6DW";
     public static final String DB_DRIVER = "com.mysql.jdbc.Driver";
     public static final String CONNECTION_URL = "jdbc:mysql://" + HOST_NAME + ":" + DB_PORT + "/" + DB_NAME;
 
