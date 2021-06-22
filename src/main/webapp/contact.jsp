@@ -110,7 +110,7 @@
                                 <textarea class="form-control" id="user_message" name="userMessage" placeholder="Lời nhắn" rows="7" required="required"></textarea>
                             </div>
                             <div class="col-12">
-                                <button class="btn green-color-yellow-gradient-btn user-contact contact_btn" onclick="contact()">GỬI</button>
+                                <button class="btn green-color-yellow-gradient-btn user-contact contact_btn">GỬI</button>
                             </div>
                         </div>
                     </form>
@@ -140,19 +140,19 @@
 <!-- Custom Script -->
 <script src="js\script.js"></script>
 
-<script>
+<%--<script>--%>
 
-    function contact(){
-        var me = $('#user_message').val();
-        if(me === ''){
+<%--    function contact(){--%>
+<%--        var me = $('#user_message').val();--%>
+<%--        if(me === ''){--%>
 
-        }
-        else {
-            alert("Gửi tin nhắn thành công");
-        }
-    }
+<%--        }--%>
+<%--        else {--%>
+<%--            alert("Gửi tin nhắn thành công");--%>
+<%--        }--%>
+<%--    }--%>
 
-</script>
+<%--</script>--%>
 
 </body>
 </html>
