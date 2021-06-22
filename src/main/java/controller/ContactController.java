@@ -13,7 +13,7 @@ import java.io.IOException;
 
 @WebServlet(name = "Contact", urlPatterns = "/contact")
 
-public class Contact extends HttpServlet {
+public class ContactController extends HttpServlet {
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         doGet(request, response);

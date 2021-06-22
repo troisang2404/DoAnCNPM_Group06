@@ -14,7 +14,7 @@ import java.sql.Timestamp;
 import java.util.Date;
 
 @WebServlet(name = "Register", urlPatterns = "/register")
-public class Register extends HttpServlet {
+public class RegisterController extends HttpServlet {
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         doGet(request, response);
