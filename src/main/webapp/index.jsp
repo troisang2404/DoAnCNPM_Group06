@@ -160,17 +160,17 @@
                             <i class="fa fa-shopping-cart"></i>
                         </a>
                         <div class="cbp-caption-defaultWrap  owl-theme sync-portfolio-carousel owl-carousel">
-                            <div class="item"> <a href="img/xahoi/chinhtri/tutuongvn1.jpg"
+                            <div class="item"> <a href="img/xahoi/doisong/sucmanhtiemthuc1.jpg"
                                                   class="cbp-caption" data-fancybox="gallery1" data-title="Book 1"><img
-                                    src="img/xahoi/chinhtri/tutuongvn1.jpg" alt="Book 1"></a></div>
-                            <div class="item"> <a href="img/xahoi/chinhtri/tutuongvn2.jpg"
+                                    src="img/xahoi/doisong/sucmanhtiemthuc1.jpg" alt="Book 1"></a></div>
+                            <div class="item"> <a href="img/xahoi/doisong/sucmanhtiemthuc2.jpg"
                                                   class="cbp-caption" data-fancybox="gallery1" data-title="Book 1"><img
-                                    src="img/xahoi/chinhtri/tutuongvn2.jpg" alt="Book 2"></a></div>
+                                    src="img/xahoi/doisong/sucmanhtiemthuc2.jpg" alt="Book 2"></a></div>
                         </div>
                         <div class="row">
                             <div class="col-12 text-center">
                                 <div class="cbp-l-grid-blog-title"><a href="#" target="_blank"
-                                                                      class="portfolio-title">Tư Tưởng Việt Nam</a></div>
+                                                                      class="portfolio-title">Sức mạnh tiềm thức</a></div>
                             </div>
                             <div class="col-12 text-center">
                                 <div class="cbp-l-grid-blog-desc portfolio-des">86.400 đ</div>
@@ -424,16 +424,16 @@
                         <div class="card">
                             <span class="product-type">NEW</span>
                             <div class="image-holder">
-                                <a href="img/xahoi/chinhtri/chinhtriluan1.jpg"
+                                <a href="img/kinang/hoctap/5a.jpg"
                                    data-fancybox="lastest_product" data-title="Shirt Name">
-                                    <img src="img/xahoi/chinhtri/chinhtriluan1.jpg" class="card-img-top"
+                                    <img src="img/kinang/hoctap/5a.jpg" class="card-img-top"
                                          alt="Lastest Arrivals 1">
                                 </a>
                             </div>
                             <div class="card-body">
                                 <div class="row">
                                     <div class="col-12 text-center">
-                                        <h5 class="card-title">Chính Trị Luận</h5>
+                                        <h5 class="card-title">Chiến Thắng Con Quỷ Trong Bạn</h5>
                                     </div>
                                     <div class="col-12 text-center">
                                         <p class="card-text">118.200 đ</p>

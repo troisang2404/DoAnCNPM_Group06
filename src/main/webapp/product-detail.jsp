@@ -149,13 +149,13 @@
                             <div class="row no-gutters product-all-details">
 
                                 <ul class="col-12 nav nav-tabs" id="myTab" role="tablist">
-                                    <li class="col-6 nav-item">
+                                    <li class="col-4 nav-item">
                                         <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Thông Tin Sách</a>
                                     </li>
                                     <li class="col-4 nav-item">
                                         <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Thông Tin Thêm</a>
                                     </li>
-                                    <li class="col-6 nav-item">
+                                    <li class="col-4 nav-item">
                                         <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Phản Hồi Khách Hàng  (2)</a>
                                     </li>
                                 </ul>
@@ -343,14 +343,14 @@
                             <div class="card">
                                 <span class="product-type">NEW</span>
                                 <div class="image-holder">
-                                    <a href="img/xahoi/chinhtri/conghoa1.jpg" data-fancybox="lastest_product" data-title="Shirt Name">
-                                        <img src="img/xahoi/chinhtri/conghoa1.jpg" class="card-img-top" alt="Lastest Arrivals 1">
+                                    <a href="img/xahoi/doisong/thaidoquyetdinhthanhcong1.jpg" data-fancybox="lastest_product" data-title="Shirt Name">
+                                        <img src="img/xahoi/doisong/thaidoquyetdinhthanhcong1.jpg" class="card-img-top" alt="Lastest Arrivals 1">
                                     </a>
                                 </div>
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-12 text-center">
-                                            <h5 class="card-title">Cộng Hoà</h5>
+                                            <h5 class="card-title">Thái Độ Quyết Định Thành Công</h5>
                                         </div>
                                         <div class="col-12 text-center">
                                             <p class="card-text">86.400 đ</p>
