@@ -191,7 +191,7 @@
                                 <ul class="navbar-nav">
 
                                     <li class="nav-item">
-                                        <a class="nav-link" href="index.jsp"> TRANG CHỦ </a>
+                                        <a class="nav-link" href="/project_BookStore/Home"> TRANG CHỦ </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link collapsePagesSideMenu" data-toggle="collapse"
@@ -323,7 +323,7 @@
                     <div class="listing-search-scroll">
                         <div class="media row">
                             <div class="img-holder ml-1 mr-2 col-4">
-                                <a href="javascript:void(0)"><img src="img/xahoi/doisong/chucholacquan2.jpg" class="align-self-center" alt="cartitem"></a>
+                                <a href="javascript:void(0)"><img src="img/xahoi/doisong/chucholacquan1.jpg.jpg" class="align-self-center" alt="cartitem"></a>
                             </div>
                             <div class="media-body mt-auto mb-auto col-8">
                                 <h5 class="name"><a href="javascript:void(0)">Chú Chó Lạc Quan</a></h5>
@@ -370,44 +370,44 @@
                     <div class="listing-search-scroll">
                         <div class="media row">
                             <div class="img-holder ml-1 mr-2 col-4">
-                                <a href="javascript:void(0)"><img src="img/kinang/hoctap/12a.jpg" class="align-self-center" alt="cartitem"></a>
+                                <a href="javascript:void(0)"><img src="img\book-1.jpg" class="align-self-center" alt="cartitem"></a>
                             </div>
                             <div class="media-body mt-auto mb-auto col-8">
-                                <h5 class="name"><a href="javascript:void(0)">7 Thói Quen Hiệu Quả</a></h5>
-                                <p class="category">Học Tập</p>
-                                <a class="btn black-sm-btn" href="shop-cart.jsp"><i class="fas fa-shopping-bag"></i></a>
+                                <h5 class="name"><a href="javascript:void(0)">So Sad Today</a></h5>
+                                <p class="category">light wear Lastest</p>
+                                <a class="btn black-sm-btn" href="shop-cart.html"><i class="fas fa-shopping-bag"></i></a>
                                 <a class="btn black-sm-btn"><i class="fas fa-eye"></i></a>
                             </div>
                         </div>
                         <div class="media row">
                             <div class="img-holder ml-1 mr-2 col-4">
-                                <a href="javascript:void(0)"><img src="img/kinang/hoctap/17a.jpg" class="align-self-center" alt="cartitem"></a>
+                                <a href="javascript:void(0)"><img src="img\book-2.jpg" class="align-self-center" alt="cartitem"></a>
                             </div>
                             <div class="media-body mt-auto mb-auto col-8">
-                                <h5 class="name"><a href="javascript:void(0)">Hiệu Ứng Đền Gas</a></h5>
-                                <p class="category">Học Tập</p>
+                                <h5 class="name"><a href="javascript:void(0)">As I Lay Dying</a></h5>
+                                <p class="category">light wear Lastest</p>
                                 <a class="btn black-sm-btn" href="shop-cart.jsp"><i class="fas fa-shopping-bag"></i></a>
                                 <a class="btn black-sm-btn" href="javascript:void(0)"><i class="fas fa-eye"></i></a>
                             </div>
                         </div>
                         <div class="media row">
                             <div class="img-holder ml-1 mr-2 col-4">
-                                <a href="javascript:void(0)"><img src="img/kinang/hoctap/19a.jpg" class="align-self-center" alt="cartitem"></a>
+                                <a href="javascript:void(0)"><img src="img\book-3.jpg" class="align-self-center" alt="cartitem"></a>
                             </div>
                             <div class="media-body mt-auto mb-auto col-8">
-                                <h5 class="name"><a href="javascript:void(0)">Bên Rặng Tuyết Sơn</a></h5>
-                                <p class="category">Học Tập</p>
+                                <h5 class="name"><a href="javascript:void(0)">Love Does</a></h5>
+                                <p class="category">light wear Lastest</p>
                                 <a class="btn black-sm-btn" href="shop-cart.jsp"><i class="fas fa-shopping-bag"></i></a>
                                 <a class="btn black-sm-btn" href="javascript:void(0)"><i class="fas fa-eye"></i></a>
                             </div>
                         </div>
                         <div class="media row">
                             <div class="img-holder ml-1 mr-2 col-4">
-                                <a href="javascript:void(0)"><img src="img/kinang/hoctap/20a.jpg" class="align-self-center" alt="cartitem"></a>
+                                <a href="javascript:void(0)"><img src="img\book-2-1.jpg" class="align-self-center" alt="cartitem"></a>
                             </div>
                             <div class="media-body mt-auto mb-auto col-8">
-                                <h5 class="name"><a href="javascript:void(0)">Minh Triết Trong Đời Sống</a></h5>
-                                <p class="category">Học Tập</p>
+                                <h5 class="name"><a href="javascript:void(0)">The Last Stand</a></h5>
+                                <p class="category">light wear Lastest</p>
                                 <a class="btn black-sm-btn" href="shop-cart.jsp"><i class="fas fa-shopping-bag"></i></a>
                                 <a class="btn black-sm-btn" href="javascript:void(0)"><i class="fas fa-eye"></i></a>
                             </div>
